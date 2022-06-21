@@ -4,7 +4,7 @@
 # Importing Libraries
 
 # In[1]:
-import driver as d
+# import driver as d
 
 from sklearn.metrics import classification_report
 from sklearn.metrics import accuracy_score
